@@ -22,14 +22,6 @@ Self-Motivated Software Developer based in Bulgaria (EU). Passionate about build
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorAtanasov08&show_icons=true&theme=radial&hide_border=true" alt="Viktor's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorAtanasov08&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
