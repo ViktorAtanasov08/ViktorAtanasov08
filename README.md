@@ -10,7 +10,7 @@ I'm a final-year secondary school student based in **Varna, Bulgaria**, building
 
 | Project | What to explore | Status |
 | --- | --- | --- |
-| [TrainingLog](https://github.com/ViktorAtanasov08/literate-octo-system) | C# / ASP.NET Core MVC workout journal: exercise forms, server validation and temporary storage. Includes a draft SQL Server schema and automated HTTP checks. | In progress — initial MVC milestone |
+| [TrainingLog](https://github.com/ViktorAtanasov08/training-log) | C# / ASP.NET Core MVC workout journal: exercise forms, server validation and temporary storage. Includes a draft SQL Server schema and automated HTTP checks. | In progress — initial MVC milestone |
 | [Merchango / custom-street](https://github.com/ViktorAtanasov08/custom-street) | React / TypeScript clothing storefront prototype with customization, cart and Supabase authentication. Developed with Lovable assistance. | Prototype — simulated checkout |
 
 Each repository explains its setup, current limitations and next steps.
