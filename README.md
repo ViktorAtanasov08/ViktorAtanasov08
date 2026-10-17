@@ -1,29 +1,35 @@
-# Hi there, I'm Viktor Atanasov 👋
+# Viktor Atanasov
 
-Self-Motivated Software Developer based in Bulgaria (EU). Passionate about building clean, efficient applications and scalable software solutions.
+**Software development student · C# & SQL · Web development**
 
----
+[LinkedIn](https://www.linkedin.com/in/viktor-atanasov-537712444/) · [Email](mailto:viktordobromirovatanasov@gmail.com)
 
-### 🛠 Tech Stack & Tools
+I'm a final-year secondary school student based in **Varna, Bulgaria**, building practical applications around strength training and small businesses. I'm looking for an **internship or junior developer opportunity** where I can contribute and learn from experienced developers.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Projects
 
----
+| Project | What to explore | Status |
+| --- | --- | --- |
+| [TrainingLog](https://github.com/ViktorAtanasov08/literate-octo-system) | C# / ASP.NET Core MVC workout journal: exercise forms, server validation and temporary storage. Includes a draft SQL Server schema and automated HTTP checks. | In progress — initial MVC milestone |
+| [Merchango / custom-street](https://github.com/ViktorAtanasov08/custom-street) | React / TypeScript clothing storefront prototype with customization, cart and Supabase authentication. Developed with Lovable assistance. | Prototype — simulated checkout |
 
-### 🚀 What I'm Focused On
-- 🎓 Applying Computer Science principles through practical project building.
-- 💻 Developing full-stack web and desktop applications.
-- 🌐 Looking for **Junior / Internship opportunities** across Europe (Remote or Relocation).
+Each repository explains its setup, current limitations and next steps.
 
----
+## Practical experience
 
+**Web Developer — Erasmus+ placement · Protex Wear · Spain · July 2026**
 
-### 📫 Let's Connect
+Developed a website using **HTML, CSS and JavaScript** for a brand focused on 3D designs on clothing. This gave me experience applying web development skills during an international placement.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-atanasov-537712444/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktordobromirovatanasov@gmail.com)
+More details and website screenshots are available on my [LinkedIn profile](https://www.linkedin.com/in/viktor-atanasov-537712444/).
+
+## Skills I'm developing
+
+- **Programming and data:** C#, object-oriented programming, SQL and data modelling.
+- **Web:** HTML, CSS and JavaScript.
+- **Tools and practice:** Git, GitHub and Visual Studio.
+- **Current learning:** ASP.NET Core MVC, persistent storage and automated testing through TrainingLog.
+
+## Current focus
+
+Taking TrainingLog from a simple exercise journal to a database-backed application, then adding personal records and progress charts. Outside programming, I train in strength sports — the reason I chose a workout tracker as my first C# portfolio project.
