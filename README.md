@@ -26,9 +26,11 @@ I'm a final-year secondary school student based in **Varna, Bulgaria**, building
 | Project | What to explore | Status |
 | --- | --- | --- |
 | [TrainingLog](https://github.com/ViktorAtanasov08/training-log) | C# / ASP.NET Core MVC workout journal: exercise forms, server validation and temporary storage. Includes a draft SQL Server schema and automated HTTP checks. | In progress — initial MVC milestone |
+| [LeaveManager](https://github.com/ViktorAtanasov08/leave-manager) | C# / ASP.NET Core MVC leave requests with demo cookie sign-in, employee/manager permissions, weekday balances and automated business/HTTP checks. | In progress — initial MVC milestone; temporary storage |
+| [StoreMetrics](https://github.com/ViktorAtanasov08/store-metrics) | Python / SQLite sales CSV imports, transaction-safe duplicate handling, SQL totals and monthly HTML reports with automated tests. | In progress — initial reporting milestone |
 | [Merchango / custom-street](https://github.com/ViktorAtanasov08/custom-street) | React / TypeScript clothing storefront prototype with customization, cart and Supabase authentication. Developed with Lovable assistance. | Prototype — simulated checkout |
 
-Each repository explains its setup, current limitations and next steps.
+Each repository explains its setup, current limitations and next steps. The initial TrainingLog, LeaveManager and StoreMetrics scaffolds were prepared with AI assistance and are being used for hands-on learning.
 
 ## Practical experience
 
@@ -47,4 +49,4 @@ More details and website screenshots are available on my [LinkedIn profile](http
 
 ## Current focus
 
-Taking TrainingLog from a simple exercise journal to a database-backed application, then adding personal records and progress charts. Outside programming, I train in strength sports — the reason I chose a workout tracker as my first C# portfolio project.
+Running, understanding and extending three small learning projects: TrainingLog, LeaveManager and StoreMetrics. Next: SQL storage for TrainingLog and LeaveManager, plus a clearer cost model for StoreMetrics. Outside programming, I train in strength sports — the reason I chose a workout tracker as my first C# portfolio project.
