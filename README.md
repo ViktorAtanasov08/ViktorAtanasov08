@@ -2,7 +2,7 @@
 
 **Software development student · C# & SQL · Web development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/viktor-atanasov-537712444/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/viktor-atanasov-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktordobromirovatanasov@gmail.com)
 
 I'm a final-year secondary school student based in **Varna, Bulgaria**, building practical applications around strength training and small businesses. I'm looking for an **internship or junior developer opportunity** where I can contribute and learn from experienced developers.
@@ -38,7 +38,7 @@ Each repository explains its setup, current limitations and next steps. The init
 
 Developed a website using **HTML, CSS and JavaScript** for a brand focused on 3D designs on clothing. This gave me experience applying web development skills during an international placement.
 
-More details and website screenshots are available on my [LinkedIn profile](https://www.linkedin.com/in/viktor-atanasov-537712444/).
+More details and website screenshots are available on my [LinkedIn profile](https://www.linkedin.com/in/viktor-atanasov-dev/).
 
 ## Skills I'm developing
 
